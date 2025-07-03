@@ -1,6 +1,9 @@
 # Amazon-clone
 This is a frontend-only clone of the Amazon India website built using HTML, CSS, and JavaScript. The project is inspired by the layout and features of the original Amazon site, and was created as a practice project to strengthen my frontend development skills.
 
+Deployed website link : https://dup-clone.netlify.app/
+
+
 FEATURES:
 > Search bar and navbar similar to Amazon.
 > Product cards with images and categories.
@@ -15,7 +18,5 @@ TECHNOLOGIES USED:
 > CSS3
 > JavaScript (Vanilla JS only, no frameworks)
 > Font Awesome (for icons)
-Deployed website link is here:
-> https://dup-clone.netlify.app/
 
 
