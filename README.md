@@ -15,5 +15,7 @@ TECHNOLOGIES USED:
 > CSS3
 > JavaScript (Vanilla JS only, no frameworks)
 > Font Awesome (for icons)
+Deployed website link is here:
+> https://dup-clone.netlify.app/
 
 
